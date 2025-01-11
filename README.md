@@ -1,4 +1,4 @@
-# Story Generation Endpoint
+# Spring AI structured output example
 
 This Spring Boot application provides examples on how to user StructuredOutput in Soring AI.
 
